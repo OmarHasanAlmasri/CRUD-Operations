@@ -1,0 +1,12 @@
+button{
+    height:37px;
+    width:135px;
+    background-color: rgb(190, 190, 247);
+}
+button:hover{
+    background-color: rgb(103, 103, 179);
+}
+table{
+    border:2px solid gray;
+    border-radius:7px;
+}
